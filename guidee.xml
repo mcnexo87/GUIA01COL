@@ -1,0 +1,2392 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CO | CABLE NOTICIAS *HD">
+    <display-name lang="es">CO | CABLE NOTICIAS *HD</display-name>
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CO | CANAL CAPITAL *HD">
+    <display-name lang="es">CO | CANAL CAPITAL *HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/7bf7988dc799ae18c0c0882418475342.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CO | CANAL INSTITUCIONAL *HQ">
+    <display-name lang="es">"&gt;CO | CANAL INSTITUCIONAL *HQ</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/ec1af6e4bf801b6b3646447296831ba9.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <channel id="CO | CANAL TRECE *HD">
+    <display-name lang="es">"&gt;CO | CANAL TRECE *HD</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/482b239ede3b51cf882e43980a3f5a67.jpg" />
+    <url>http://www.claro.com.co</url>
+  </channel>
+  <programme start="20210220000000 -0500" stop="20210220010000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">El Experimento</title>
+  </programme>
+  <programme start="20210220010000 -0500" stop="20210220020000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Mesa Capital</title>
+  </programme>
+  <programme start="20210220020000 -0500" stop="20210220030000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">¡Eureka! Aprende En Casa - Chicos Y Chicas</title>
+  </programme>
+  <programme start="20210220030000 -0500" stop="20210220034500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">El Experimento</title>
+  </programme>
+  <programme start="20210220034500 -0500" stop="20210220040000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210220040000 -0500" stop="20210220050000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Mesa Capital</title>
+  </programme>
+  <programme start="20210220050000 -0500" stop="20210220060000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Mesa Capital</title>
+  </programme>
+  <programme start="20210220060000 -0500" stop="20210220063000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Masculinidades</title>
+  </programme>
+  <programme start="20210220063000 -0500" stop="20210220070000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210220070000 -0500" stop="20210220073000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210220073000 -0500" stop="20210220083000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Mesa Capital</title>
+  </programme>
+  <programme start="20210220083000 -0500" stop="20210220090000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210220090000 -0500" stop="20210220093000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados - Participaciones Políticas</title>
+  </programme>
+  <programme start="20210220093000 -0500" stop="20210220100000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados - Civismo Peatones</title>
+  </programme>
+  <programme start="20210220100000 -0500" stop="20210220103000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados - Civismo</title>
+  </programme>
+  <programme start="20210220103000 -0500" stop="20210220110000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados - Honestidades</title>
+  </programme>
+  <programme start="20210220110000 -0500" stop="20210220113000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210220113000 -0500" stop="20210220115000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Andares</title>
+  </programme>
+  <programme start="20210220115000 -0500" stop="20210220120000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210220120000 -0500" stop="20210220122500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Profesiones Insolitas</title>
+  </programme>
+  <programme start="20210220122500 -0500" stop="20210220123000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Artisticamente</title>
+  </programme>
+  <programme start="20210220123000 -0500" stop="20210220125500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Sobrevivientes</title>
+  </programme>
+  <programme start="20210220125500 -0500" stop="20210220130000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Doña Rita</title>
+  </programme>
+  <programme start="20210220130000 -0500" stop="20210220135500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210220135500 -0500" stop="20210220140000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Sea Qwrerty</title>
+  </programme>
+  <programme start="20210220140000 -0500" stop="20210220141000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Rap Capital</title>
+  </programme>
+  <programme start="20210220141000 -0500" stop="20210220142000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Historias En Bici</title>
+  </programme>
+  <programme start="20210220142000 -0500" stop="20210220143000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Skate Tour</title>
+  </programme>
+  <programme start="20210220143000 -0500" stop="20210220150000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Actualidad Cut</title>
+  </programme>
+  <programme start="20210220150000 -0500" stop="20210220151000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Somos Originarios</title>
+  </programme>
+  <programme start="20210220151000 -0500" stop="20210220152000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Origen De Los Tiempo</title>
+  </programme>
+  <programme start="20210220152000 -0500" stop="20210220153000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Somos Como Somos</title>
+  </programme>
+  <programme start="20210220153000 -0500" stop="20210220154000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210220154000 -0500" stop="20210220155000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Doña Rita</title>
+  </programme>
+  <programme start="20210220155000 -0500" stop="20210220160000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210220160000 -0500" stop="20210220161000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Exploradores Urbanos</title>
+  </programme>
+  <programme start="20210220161000 -0500" stop="20210220162000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Nos Otros</title>
+  </programme>
+  <programme start="20210220162000 -0500" stop="20210220163000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Sea Qwrerty</title>
+  </programme>
+  <programme start="20210220163000 -0500" stop="20210220170000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210220170000 -0500" stop="20210220175500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210220175500 -0500" stop="20210220180500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210220180500 -0500" stop="20210220183000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Profesiones Insolitas</title>
+  </programme>
+  <programme start="20210220183000 -0500" stop="20210220190000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Sobrevivientes</title>
+  </programme>
+  <programme start="20210220190000 -0500" stop="20210220193000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Andares</title>
+  </programme>
+  <programme start="20210220193000 -0500" stop="20210220200000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210220200000 -0500" stop="20210220201000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210220201000 -0500" stop="20210220210000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210220210000 -0500" stop="20210220211000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Rap Capital</title>
+  </programme>
+  <programme start="20210220211000 -0500" stop="20210220212000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Historias En Bici</title>
+  </programme>
+  <programme start="20210220212000 -0500" stop="20210220213000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Skate Tour</title>
+  </programme>
+  <programme start="20210220213000 -0500" stop="20210220214000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bogota Ciudad De Campeones</title>
+  </programme>
+  <programme start="20210220214000 -0500" stop="20210220215000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bogota Capital Del Fútbol</title>
+  </programme>
+  <programme start="20210220215000 -0500" stop="20210220220000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Olimpicos</title>
+  </programme>
+  <programme start="20210220220000 -0500" stop="20210220221000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Somos Originarios</title>
+  </programme>
+  <programme start="20210220221000 -0500" stop="20210220222000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Origen De Los Tiempo</title>
+  </programme>
+  <programme start="20210220222000 -0500" stop="20210220223000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Somos Como Somos</title>
+  </programme>
+  <programme start="20210220223000 -0500" stop="20210220225500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Profesiones Insolitas</title>
+  </programme>
+  <programme start="20210220225500 -0500" stop="20210220230000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Himno Nacional / Himno De Bogotá</title>
+  </programme>
+  <programme start="20210220230000 -0500" stop="20210220233000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Sobrevivientes</title>
+  </programme>
+  <programme start="20210220233000 -0500" stop="20210221000000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210221000000 -0500" stop="20210221001000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210221001000 -0500" stop="20210221002000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210221002000 -0500" stop="20210221003000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bogota En Paz</title>
+  </programme>
+  <programme start="20210221003000 -0500" stop="20210221010000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Comisión De La Verdad</title>
+  </programme>
+  <programme start="20210221010000 -0500" stop="20210221020000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210221020000 -0500" stop="20210221021000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hoy En Cultura En Casa, Un Viaje De Memoria Y Biodiversidad</title>
+  </programme>
+  <programme start="20210221021000 -0500" stop="20210221030000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Colombia Bio: Tacarcuna Minciencias-Red Tal</title>
+  </programme>
+  <programme start="20210221030000 -0500" stop="20210221040000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210221040000 -0500" stop="20210221043000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Sobrevivientes</title>
+  </programme>
+  <programme start="20210221043000 -0500" stop="20210221050000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Profesiones Insolitas</title>
+  </programme>
+  <programme start="20210221050000 -0500" stop="20210221053000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Retratos De Ciudad</title>
+  </programme>
+  <programme start="20210221053000 -0500" stop="20210221060000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Profesiones Insolitas</title>
+  </programme>
+  <programme start="20210221060000 -0500" stop="20210221063000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210221063000 -0500" stop="20210221070000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Pluralismo</title>
+  </programme>
+  <programme start="20210221070000 -0500" stop="20210221073000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210221073000 -0500" stop="20210221080000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Masculinidades</title>
+  </programme>
+  <programme start="20210221080000 -0500" stop="20210221083000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210221083000 -0500" stop="20210221090000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Pluralismo</title>
+  </programme>
+  <programme start="20210221090000 -0500" stop="20210221093000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Estética</title>
+  </programme>
+  <programme start="20210221093000 -0500" stop="20210221100000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Participaciones Políticas</title>
+  </programme>
+  <programme start="20210221100000 -0500" stop="20210221103000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Reconciliación Y Justicia</title>
+  </programme>
+  <programme start="20210221103000 -0500" stop="20210221110000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo Peatones</title>
+  </programme>
+  <programme start="20210221110000 -0500" stop="20210221113000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bogota En Paz</title>
+  </programme>
+  <programme start="20210221113000 -0500" stop="20210221115000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo</title>
+  </programme>
+  <programme start="20210221115000 -0500" stop="20210221120000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210221120000 -0500" stop="20210221130000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210221130000 -0500" stop="20210221133000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Volveremos</title>
+  </programme>
+  <programme start="20210221133000 -0500" stop="20210221140000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Rostro De Mi Barrio</title>
+  </programme>
+  <programme start="20210221140000 -0500" stop="20210221142500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bogota Ciudad De Campeones</title>
+  </programme>
+  <programme start="20210221142500 -0500" stop="20210221143000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210221143000 -0500" stop="20210221150000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Historias En Bici</title>
+  </programme>
+  <programme start="20210221150000 -0500" stop="20210221153000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bioagradable</title>
+  </programme>
+  <programme start="20210221153000 -0500" stop="20210221154000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210221154000 -0500" stop="20210221154500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210221154500 -0500" stop="20210221160000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Puesta En Rosa</title>
+  </programme>
+  <programme start="20210221160000 -0500" stop="20210221163000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hoy Por Ti</title>
+  </programme>
+  <programme start="20210221163000 -0500" stop="20210221170000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Diversidad</title>
+  </programme>
+  <programme start="20210221170000 -0500" stop="20210221180000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210221180000 -0500" stop="20210221183000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Volveremos</title>
+  </programme>
+  <programme start="20210221183000 -0500" stop="20210221185500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Rostro De Mi Barrio</title>
+  </programme>
+  <programme start="20210221185500 -0500" stop="20210221190000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210221190000 -0500" stop="20210221193000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Primero Mi Barrio</title>
+  </programme>
+  <programme start="20210221193000 -0500" stop="20210221200000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Retratos De Ciudad</title>
+  </programme>
+  <programme start="20210221200000 -0500" stop="20210221205000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210221205000 -0500" stop="20210221210000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210221210000 -0500" stop="20210221210500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210221210500 -0500" stop="20210221213000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bioagradable</title>
+  </programme>
+  <programme start="20210221213000 -0500" stop="20210221220000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ciudadana Preocupada</title>
+  </programme>
+  <programme start="20210221220000 -0500" stop="20210221223000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bolivar Yotuber</title>
+  </programme>
+  <programme start="20210221223000 -0500" stop="20210221225500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bogota En Paz</title>
+  </programme>
+  <programme start="20210221225500 -0500" stop="20210221230000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Himno Nacional / Himno De Bogotá</title>
+  </programme>
+  <programme start="20210221230000 -0500" stop="20210221233000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Volveremos</title>
+  </programme>
+  <programme start="20210221233000 -0500" stop="20210222003000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210222003000 -0500" stop="20210222010000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210222010000 -0500" stop="20210222013000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210222013000 -0500" stop="20210222020000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Rostros De Mi Barrio</title>
+  </programme>
+  <programme start="20210222020000 -0500" stop="20210222033000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Abuela Sofía</title>
+  </programme>
+  <programme start="20210222033000 -0500" stop="20210222040000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Relatos Retorcidos</title>
+  </programme>
+  <programme start="20210222040000 -0500" stop="20210222050000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones En Casa</title>
+  </programme>
+  <programme start="20210222050000 -0500" stop="20210222053000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210222053000 -0500" stop="20210222060000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210222060000 -0500" stop="20210222063000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210222063000 -0500" stop="20210222070000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Pluralismo</title>
+  </programme>
+  <programme start="20210222070000 -0500" stop="20210222073000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210222073000 -0500" stop="20210222080000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Masculinidades</title>
+  </programme>
+  <programme start="20210222080000 -0500" stop="20210222083000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210222083000 -0500" stop="20210222090000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Pluralismo</title>
+  </programme>
+  <programme start="20210222090000 -0500" stop="20210222093000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Estética</title>
+  </programme>
+  <programme start="20210222093000 -0500" stop="20210222100000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Participaciones Políticas</title>
+  </programme>
+  <programme start="20210222100000 -0500" stop="20210222103000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Reconciliación Y Justicia</title>
+  </programme>
+  <programme start="20210222103000 -0500" stop="20210222110000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo Peatones</title>
+  </programme>
+  <programme start="20210222110000 -0500" stop="20210222111500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Historias En Bici</title>
+  </programme>
+  <programme start="20210222111500 -0500" stop="20210222114500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210222114500 -0500" stop="20210222115000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210222115000 -0500" stop="20210222120000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210222120000 -0500" stop="20210222121300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210222121300 -0500" stop="20210222122600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210222122600 -0500" stop="20210222123900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210222123900 -0500" stop="20210222125300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210222125300 -0500" stop="20210222125800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210222125800 -0500" stop="20210222130000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210222130000 -0500" stop="20210222133000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210222133000 -0500" stop="20210222133900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210222133900 -0500" stop="20210222134700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210222134700 -0500" stop="20210222140000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210222140000 -0500" stop="20210222141500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210222141500 -0500" stop="20210222142400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bioagradable</title>
+  </programme>
+  <programme start="20210222142400 -0500" stop="20210222143000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Honestidades</title>
+  </programme>
+  <programme start="20210222143000 -0500" stop="20210222144400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210222144400 -0500" stop="20210222150000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210222150000 -0500" stop="20210222151000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210222151000 -0500" stop="20210222151500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210222151500 -0500" stop="20210222170000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210222170000 -0500" stop="20210222173000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210222173000 -0500" stop="20210222180000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210222180000 -0500" stop="20210222190000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210222190000 -0500" stop="20210222191300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210222191300 -0500" stop="20210222192600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210222192600 -0500" stop="20210222193900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210222193900 -0500" stop="20210222195300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210222195300 -0500" stop="20210222195800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210222195800 -0500" stop="20210222200000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210222200000 -0500" stop="20210222203000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210222203000 -0500" stop="20210222203900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210222203900 -0500" stop="20210222204700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210222204700 -0500" stop="20210222210000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210222210000 -0500" stop="20210222211500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210222211500 -0500" stop="20210222212400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bioagradable</title>
+  </programme>
+  <programme start="20210222212400 -0500" stop="20210222213000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Honestidades</title>
+  </programme>
+  <programme start="20210222213000 -0500" stop="20210222214400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210222214400 -0500" stop="20210222220000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210222220000 -0500" stop="20210222225500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210222225500 -0500" stop="20210222230000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Himno Nacional / Himno De Bogotá</title>
+  </programme>
+  <programme start="20210222230000 -0500" stop="20210223000000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210223000000 -0500" stop="20210223010000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210223010000 -0500" stop="20210223020000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210223020000 -0500" stop="20210223023000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210223023000 -0500" stop="20210223033000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210223033000 -0500" stop="20210223040000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticiero Camara De Representantes</title>
+  </programme>
+  <programme start="20210223040000 -0500" stop="20210223050000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210223050000 -0500" stop="20210223053000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210223053000 -0500" stop="20210223060000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210223060000 -0500" stop="20210223063000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Masculinidades</title>
+  </programme>
+  <programme start="20210223063000 -0500" stop="20210223070000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210223070000 -0500" stop="20210223073000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210223073000 -0500" stop="20210223080000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Pluralismo</title>
+  </programme>
+  <programme start="20210223080000 -0500" stop="20210223083000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Estética</title>
+  </programme>
+  <programme start="20210223083000 -0500" stop="20210223090000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Participaciones Políticas</title>
+  </programme>
+  <programme start="20210223090000 -0500" stop="20210223093000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Reconciliación Y Justicia</title>
+  </programme>
+  <programme start="20210223093000 -0500" stop="20210223100000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo Peatones</title>
+  </programme>
+  <programme start="20210223100000 -0500" stop="20210223103000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo</title>
+  </programme>
+  <programme start="20210223103000 -0500" stop="20210223110000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Honestidades</title>
+  </programme>
+  <programme start="20210223110000 -0500" stop="20210223111500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Historias En Bici</title>
+  </programme>
+  <programme start="20210223111500 -0500" stop="20210223114500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210223114500 -0500" stop="20210223115000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210223115000 -0500" stop="20210223120000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210223120000 -0500" stop="20210223121300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210223121300 -0500" stop="20210223122600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210223122600 -0500" stop="20210223123900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210223123900 -0500" stop="20210223125300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210223125300 -0500" stop="20210223125800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210223125800 -0500" stop="20210223130000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210223130000 -0500" stop="20210223133000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210223133000 -0500" stop="20210223133900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210223133900 -0500" stop="20210223134700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210223134700 -0500" stop="20210223140000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210223140000 -0500" stop="20210223141500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210223141500 -0500" stop="20210223143000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210223143000 -0500" stop="20210223144400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210223144400 -0500" stop="20210223150000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210223150000 -0500" stop="20210223151000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210223151000 -0500" stop="20210223151500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210223151500 -0500" stop="20210223170000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210223170000 -0500" stop="20210223173000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210223173000 -0500" stop="20210223180000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210223180000 -0500" stop="20210223190000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210223190000 -0500" stop="20210223191300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210223191300 -0500" stop="20210223192600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210223192600 -0500" stop="20210223193900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210223193900 -0500" stop="20210223195300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210223195300 -0500" stop="20210223195800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210223195800 -0500" stop="20210223200000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210223200000 -0500" stop="20210223203000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210223203000 -0500" stop="20210223203900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210223203900 -0500" stop="20210223204700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210223204700 -0500" stop="20210223210000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210223210000 -0500" stop="20210223211500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210223211500 -0500" stop="20210223213000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210223213000 -0500" stop="20210223214400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210223214400 -0500" stop="20210223220000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210223220000 -0500" stop="20210223225500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210223225500 -0500" stop="20210223230000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Himno Nacional / Himno De Bogotá</title>
+  </programme>
+  <programme start="20210223230000 -0500" stop="20210224000000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210224000000 -0500" stop="20210224010000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210224010000 -0500" stop="20210224020000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210224020000 -0500" stop="20210224023000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210224023000 -0500" stop="20210224030000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210224030000 -0500" stop="20210224033000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210224033000 -0500" stop="20210224040000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210224040000 -0500" stop="20210224050000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210224050000 -0500" stop="20210224053000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210224053000 -0500" stop="20210224060000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210224060000 -0500" stop="20210224063000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Masculinidades</title>
+  </programme>
+  <programme start="20210224063000 -0500" stop="20210224070000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210224070000 -0500" stop="20210224073000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210224073000 -0500" stop="20210224080000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Pluralismo</title>
+  </programme>
+  <programme start="20210224080000 -0500" stop="20210224083000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Estética</title>
+  </programme>
+  <programme start="20210224083000 -0500" stop="20210224090000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Participaciones Políticas</title>
+  </programme>
+  <programme start="20210224090000 -0500" stop="20210224093000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Reconciliación Y Justicia</title>
+  </programme>
+  <programme start="20210224093000 -0500" stop="20210224100000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo Peatones</title>
+  </programme>
+  <programme start="20210224100000 -0500" stop="20210224103000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo</title>
+  </programme>
+  <programme start="20210224103000 -0500" stop="20210224110000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Honestidades</title>
+  </programme>
+  <programme start="20210224110000 -0500" stop="20210224111500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Historias En Bici</title>
+  </programme>
+  <programme start="20210224111500 -0500" stop="20210224114500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210224114500 -0500" stop="20210224115000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210224115000 -0500" stop="20210224120000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210224120000 -0500" stop="20210224121300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210224121300 -0500" stop="20210224122600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210224122600 -0500" stop="20210224123900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210224123900 -0500" stop="20210224125300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210224125300 -0500" stop="20210224125800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210224125800 -0500" stop="20210224130000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210224130000 -0500" stop="20210224133000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210224133000 -0500" stop="20210224133900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210224133900 -0500" stop="20210224134700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210224134700 -0500" stop="20210224140000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210224140000 -0500" stop="20210224141500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210224141500 -0500" stop="20210224142400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bioagradable</title>
+  </programme>
+  <programme start="20210224142400 -0500" stop="20210224143000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Honestidades</title>
+  </programme>
+  <programme start="20210224143000 -0500" stop="20210224144400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210224144400 -0500" stop="20210224150000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210224150000 -0500" stop="20210224151000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210224151000 -0500" stop="20210224151500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210224151500 -0500" stop="20210224170000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210224170000 -0500" stop="20210224173000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210224173000 -0500" stop="20210224180000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210224180000 -0500" stop="20210224190000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210224190000 -0500" stop="20210224191300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210224191300 -0500" stop="20210224192600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210224192600 -0500" stop="20210224193900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210224193900 -0500" stop="20210224195300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210224195300 -0500" stop="20210224195800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210224195800 -0500" stop="20210224200000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210224200000 -0500" stop="20210224203000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210224203000 -0500" stop="20210224203900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210224203900 -0500" stop="20210224204700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210224204700 -0500" stop="20210224210000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210224210000 -0500" stop="20210224211500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210224211500 -0500" stop="20210224212400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Bioagradable</title>
+  </programme>
+  <programme start="20210224212400 -0500" stop="20210224213000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Honestidades</title>
+  </programme>
+  <programme start="20210224213000 -0500" stop="20210224214400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210224214400 -0500" stop="20210224220000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210224220000 -0500" stop="20210224225500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210224225500 -0500" stop="20210224230000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Himno Nacional / Himno De Bogotá</title>
+  </programme>
+  <programme start="20210224230000 -0500" stop="20210225000000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210225000000 -0500" stop="20210225010000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210225010000 -0500" stop="20210225020000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210225020000 -0500" stop="20210225023000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronicas Capital</title>
+  </programme>
+  <programme start="20210225023000 -0500" stop="20210225030000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210225030000 -0500" stop="20210225033000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210225033000 -0500" stop="20210225033200 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Loteria Del Meta</title>
+  </programme>
+  <programme start="20210225033200 -0500" stop="20210225040000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">No Hay Tumbas Para Tanta Gente</title>
+  </programme>
+  <programme start="20210225040000 -0500" stop="20210225050000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210225050000 -0500" stop="20210225053000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210225053000 -0500" stop="20210225060000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210225060000 -0500" stop="20210225063000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Masculinidades</title>
+  </programme>
+  <programme start="20210225063000 -0500" stop="20210225070000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Ética Ciudadana</title>
+  </programme>
+  <programme start="20210225070000 -0500" stop="20210225073000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Ejemplares</title>
+  </programme>
+  <programme start="20210225073000 -0500" stop="20210225080000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Pluralismo</title>
+  </programme>
+  <programme start="20210225080000 -0500" stop="20210225083000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Estética</title>
+  </programme>
+  <programme start="20210225083000 -0500" stop="20210225090000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Participaciones Políticas</title>
+  </programme>
+  <programme start="20210225090000 -0500" stop="20210225093000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Reconciliación Y Justicia</title>
+  </programme>
+  <programme start="20210225093000 -0500" stop="20210225100000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo Peatones</title>
+  </programme>
+  <programme start="20210225100000 -0500" stop="20210225103000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Civismo</title>
+  </programme>
+  <programme start="20210225103000 -0500" stop="20210225110000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Honestidades</title>
+  </programme>
+  <programme start="20210225110000 -0500" stop="20210225111500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Historias En Bici</title>
+  </programme>
+  <programme start="20210225111500 -0500" stop="20210225114500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210225114500 -0500" stop="20210225115000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210225115000 -0500" stop="20210225120000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210225120000 -0500" stop="20210225121300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210225121300 -0500" stop="20210225122600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210225122600 -0500" stop="20210225123900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210225123900 -0500" stop="20210225125300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210225125300 -0500" stop="20210225125800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210225125800 -0500" stop="20210225130000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210225130000 -0500" stop="20210225133000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210225133000 -0500" stop="20210225133900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210225133900 -0500" stop="20210225134700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210225134700 -0500" stop="20210225140000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210225140000 -0500" stop="20210225141500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210225141500 -0500" stop="20210225143000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210225143000 -0500" stop="20210225144400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210225144400 -0500" stop="20210225150000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210225150000 -0500" stop="20210225151000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Todos Somos Cuidadanos</title>
+  </programme>
+  <programme start="20210225151000 -0500" stop="20210225151500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capsula Cronicas Capital</title>
+  </programme>
+  <programme start="20210225151500 -0500" stop="20210225170000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210225170000 -0500" stop="20210225173000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Noticias Capital</title>
+  </programme>
+  <programme start="20210225173000 -0500" stop="20210225180000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210225180000 -0500" stop="20210225190000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conversaciones</title>
+  </programme>
+  <programme start="20210225190000 -0500" stop="20210225191300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210225191300 -0500" stop="20210225192600 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210225192600 -0500" stop="20210225193900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Listos A Jugar</title>
+  </programme>
+  <programme start="20210225193900 -0500" stop="20210225195300 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210225195300 -0500" stop="20210225195800 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Pequeñas Aventureras</title>
+  </programme>
+  <programme start="20210225195800 -0500" stop="20210225200000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Perez</title>
+  </programme>
+  <programme start="20210225200000 -0500" stop="20210225203000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">La Mesa Amarilla</title>
+  </programme>
+  <programme start="20210225203000 -0500" stop="20210225203900 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cocinando Con Mikoondas</title>
+  </programme>
+  <programme start="20210225203900 -0500" stop="20210225204700 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Hazlo En Casa</title>
+  </programme>
+  <programme start="20210225204700 -0500" stop="20210225210000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Los Cuentos Del Abuelo</title>
+  </programme>
+  <programme start="20210225210000 -0500" stop="20210225211500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210225211500 -0500" stop="20210225213000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Científico Por Un Día</title>
+  </programme>
+  <programme start="20210225213000 -0500" stop="20210225214400 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Conectados Rumbos Diversos</title>
+  </programme>
+  <programme start="20210225214400 -0500" stop="20210225220000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Cronografia</title>
+  </programme>
+  <programme start="20210225220000 -0500" stop="20210225225500 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210225225500 -0500" stop="20210225230000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Himno Nacional / Himno De Bogotá</title>
+  </programme>
+  <programme start="20210225230000 -0500" stop="20210226000000 -0500" channel="CO | CANAL CAPITAL *HD">
+    <title lang="es">Capital En Linea</title>
+  </programme>
+  <programme start="20210220000000 -0500" stop="20210220000100 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia 360</title>
+  </programme>
+  <programme start="20210220000100 -0500" stop="20210220000300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210220000300 -0500" stop="20210220003000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Mundo Al Día</title>
+  </programme>
+  <programme start="20210220003000 -0500" stop="20210220010000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20210220010000 -0500" stop="20210220013000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20210220013000 -0500" stop="20210220020000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Educación Y Desarrollo</title>
+  </programme>
+  <programme start="20210220020000 -0500" stop="20210220021500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Informativo Al Día A Las 9</title>
+  </programme>
+  <programme start="20210220021500 -0500" stop="20210220030000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210220030000 -0500" stop="20210220040000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210220040000 -0500" stop="20210220050000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Dramatizados Del Bicentenario</title>
+  </programme>
+  <programme start="20210220050000 -0500" stop="20210220053000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Nuestros Héroes</title>
+  </programme>
+  <programme start="20210220053000 -0500" stop="20210220060000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210220060000 -0500" stop="20210220063000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujer Es Saber</title>
+  </programme>
+  <programme start="20210220063000 -0500" stop="20210220070000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Educación Y Desarrollo</title>
+  </programme>
+  <programme start="20210220070000 -0500" stop="20210220073000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210220073000 -0500" stop="20210220080000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210220080000 -0500" stop="20210220083000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20210220083000 -0500" stop="20210220090000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20210220090000 -0500" stop="20210220093000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210220093000 -0500" stop="20210220100000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210220100000 -0500" stop="20210220103000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Historias Con Futuro</title>
+  </programme>
+  <programme start="20210220103000 -0500" stop="20210220110000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210220110000 -0500" stop="20210220113000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210220113000 -0500" stop="20210220120000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210220120000 -0500" stop="20210220123000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuradauría Ciudadana</title>
+  </programme>
+  <programme start="20210220123000 -0500" stop="20210220123200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210220123200 -0500" stop="20210220130000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210220130000 -0500" stop="20210220131500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Reporteros En El Mundo</title>
+  </programme>
+  <programme start="20210220131500 -0500" stop="20210220133000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Reportero</title>
+  </programme>
+  <programme start="20210220133000 -0500" stop="20210220140000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Economía Creativa</title>
+  </programme>
+  <programme start="20210220140000 -0500" stop="20210220140300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pasos Seguros</title>
+  </programme>
+  <programme start="20210220140300 -0500" stop="20210220163000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Maratón Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210220163000 -0500" stop="20210220170000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210220170000 -0500" stop="20210220173000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Nuestros Héroes</title>
+  </programme>
+  <programme start="20210220173000 -0500" stop="20210220180000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210220180000 -0500" stop="20210220183000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210220183000 -0500" stop="20210220183200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210220183200 -0500" stop="20210220190000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210220190000 -0500" stop="20210220193000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Construyendo Futuro</title>
+  </programme>
+  <programme start="20210220193000 -0500" stop="20210220200000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20210220200000 -0500" stop="20210220203000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Patrimonio Mundial</title>
+  </programme>
+  <programme start="20210220203000 -0500" stop="20210220213000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Córdova, Un General Llamado Arrojo</title>
+  </programme>
+  <programme start="20210220213000 -0500" stop="20210220220000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210220220000 -0500" stop="20210220223000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210220223000 -0500" stop="20210220230000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20210220230000 -0500" stop="20210220233000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20210220233000 -0500" stop="20210221000000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210221000000 -0500" stop="20210221000100 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia 360</title>
+  </programme>
+  <programme start="20210221000100 -0500" stop="20210221000300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210221000300 -0500" stop="20210221003000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20210221003000 -0500" stop="20210221010000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210221010000 -0500" stop="20210221013000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Nuestros Héroes</title>
+  </programme>
+  <programme start="20210221013000 -0500" stop="20210221020000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Conectados Con Álvaro García</title>
+  </programme>
+  <programme start="20210221020000 -0500" stop="20210221030000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Paseadora De Perros Abueles..</title>
+  </programme>
+  <programme start="20210221030000 -0500" stop="20210221033000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Artesanos De La Música</title>
+  </programme>
+  <programme start="20210221033000 -0500" stop="20210221040000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Campo En La Radio Tv</title>
+  </programme>
+  <programme start="20210221040000 -0500" stop="20210221043000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20210221043000 -0500" stop="20210221050000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210221050000 -0500" stop="20210221053000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210221053000 -0500" stop="20210221060000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20210221060000 -0500" stop="20210221063000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Cápsulas Informativas</title>
+  </programme>
+  <programme start="20210221063000 -0500" stop="20210221070000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210221070000 -0500" stop="20210221073000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Educación Y Desarrollo</title>
+  </programme>
+  <programme start="20210221073000 -0500" stop="20210221080000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210221080000 -0500" stop="20210221083000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210221083000 -0500" stop="20210221090000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20210221090000 -0500" stop="20210221093000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Clase</title>
+  </programme>
+  <programme start="20210221093000 -0500" stop="20210221100000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Historias Con Futuro</title>
+  </programme>
+  <programme start="20210221100000 -0500" stop="20210221103000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210221103000 -0500" stop="20210221110000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Noticiero Del Senado</title>
+  </programme>
+  <programme start="20210221110000 -0500" stop="20210221113000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Campo En La Radio Tv</title>
+  </programme>
+  <programme start="20210221113000 -0500" stop="20210221120000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210221120000 -0500" stop="20210221123000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210221123000 -0500" stop="20210221123200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210221123200 -0500" stop="20210221130000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuradauría Ciudadana</title>
+  </programme>
+  <programme start="20210221130000 -0500" stop="20210221133000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210221133000 -0500" stop="20210221140000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Economía Creativa</title>
+  </programme>
+  <programme start="20210221140000 -0500" stop="20210221140300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pasos Seguros</title>
+  </programme>
+  <programme start="20210221140300 -0500" stop="20210221143000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Escápate</title>
+  </programme>
+  <programme start="20210221143000 -0500" stop="20210221150000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Lista De Erick</title>
+  </programme>
+  <programme start="20210221150000 -0500" stop="20210221153000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20210221153000 -0500" stop="20210221160000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Visión Futuro</title>
+  </programme>
+  <programme start="20210221160000 -0500" stop="20210221163000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Rt Reporta</title>
+  </programme>
+  <programme start="20210221163000 -0500" stop="20210221170000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Reportero</title>
+  </programme>
+  <programme start="20210221170000 -0500" stop="20210221173000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210221173000 -0500" stop="20210221180000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Noticiero Del Senado</title>
+  </programme>
+  <programme start="20210221180000 -0500" stop="20210221183000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Noticias Cámara DeRepresentantes</title>
+  </programme>
+  <programme start="20210221183000 -0500" stop="20210221183200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210221183200 -0500" stop="20210221193000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20210221193000 -0500" stop="20210221203000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Play</title>
+  </programme>
+  <programme start="20210221203000 -0500" stop="20210221210000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">De Voz A Vos</title>
+  </programme>
+  <programme start="20210221210000 -0500" stop="20210221213000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Patrimonio Mundial</title>
+  </programme>
+  <programme start="20210221213000 -0500" stop="20210221220000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20210221220000 -0500" stop="20210221223000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20210221223000 -0500" stop="20210221230000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Rtvc El Sistema Que Conecta A Colombia</title>
+  </programme>
+  <programme start="20210221230000 -0500" stop="20210221233000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Las Aventuras Del Profesor Yarumo</title>
+  </programme>
+  <programme start="20210221233000 -0500" stop="20210222000000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Nuestros Héroes</title>
+  </programme>
+  <programme start="20210222000000 -0500" stop="20210222000100 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia 360</title>
+  </programme>
+  <programme start="20210222000100 -0500" stop="20210222000300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210222000300 -0500" stop="20210222003000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210222003000 -0500" stop="20210222010000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Construyendo Futuro</title>
+  </programme>
+  <programme start="20210222010000 -0500" stop="20210222013000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210222013000 -0500" stop="20210222020000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210222020000 -0500" stop="20210222023000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Conectados Con Álvaro García</title>
+  </programme>
+  <programme start="20210222023000 -0500" stop="20210222030000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210222030000 -0500" stop="20210222033000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20210222033000 -0500" stop="20210222040000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">De Voz A Vos</title>
+  </programme>
+  <programme start="20210222040000 -0500" stop="20210222050000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Córdova, Un General Llamado Arrojo</title>
+  </programme>
+  <programme start="20210222050000 -0500" stop="20210222053000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mis Manos Te Enseñan Tv</title>
+  </programme>
+  <programme start="20210222053000 -0500" stop="20210222060000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20210222060000 -0500" stop="20210222063000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Administrando Justicia</title>
+  </programme>
+  <programme start="20210222063000 -0500" stop="20210222070000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210222070000 -0500" stop="20210222073000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20210222073000 -0500" stop="20210222080000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210222080000 -0500" stop="20210222083000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Escenarios Históricos</title>
+  </programme>
+  <programme start="20210222083000 -0500" stop="20210222090000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20210222090000 -0500" stop="20210222093000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210222093000 -0500" stop="20210222100000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210222100000 -0500" stop="20210222103000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210222103000 -0500" stop="20210222104500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Cápsulas Informativas</title>
+  </programme>
+  <programme start="20210222104500 -0500" stop="20210222110000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20210222110000 -0500" stop="20210222130000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Señal De La Mañana</title>
+  </programme>
+  <programme start="20210222130000 -0500" stop="20210222130500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Boletín Coronavirus</title>
+  </programme>
+  <programme start="20210222130500 -0500" stop="20210222133000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20210222133000 -0500" stop="20210222143000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20210222143000 -0500" stop="20210222150000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210222150000 -0500" stop="20210222160000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profe En Tu Casa</title>
+  </programme>
+  <programme start="20210222160000 -0500" stop="20210222170000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Gran Charla Lúdica Nacional</title>
+  </programme>
+  <programme start="20210222170000 -0500" stop="20210222173000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Rt Reporta</title>
+  </programme>
+  <programme start="20210222173000 -0500" stop="20210222180000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Reportero / Informativo Euronews</title>
+  </programme>
+  <programme start="20210222180000 -0500" stop="20210222190000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia Al Aire</title>
+  </programme>
+  <programme start="20210222190000 -0500" stop="20210222190200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Este Mes En La Historia</title>
+  </programme>
+  <programme start="20210222190200 -0500" stop="20210222193000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Dw Noticias / Economía Dw</title>
+  </programme>
+  <programme start="20210222193000 -0500" stop="20210222200000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20210222200000 -0500" stop="20210222210000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210222210000 -0500" stop="20210222213000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Clase</title>
+  </programme>
+  <programme start="20210222213000 -0500" stop="20210222223000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20210222223000 -0500" stop="20210222230000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20210222230000 -0500" stop="20210223000000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210223000000 -0500" stop="20210223000100 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia 360</title>
+  </programme>
+  <programme start="20210223000100 -0500" stop="20210223000300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210223000300 -0500" stop="20210223003000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tv Municipios</title>
+  </programme>
+  <programme start="20210223003000 -0500" stop="20210223010000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Noticiero Del Senado</title>
+  </programme>
+  <programme start="20210223010000 -0500" stop="20210223013000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20210223013000 -0500" stop="20210223020000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210223020000 -0500" stop="20210223021500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20210223021500 -0500" stop="20210223022500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Informativo Al Día A Las 9</title>
+  </programme>
+  <programme start="20210223022500 -0500" stop="20210223023000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Cápsulas Presidencia</title>
+  </programme>
+  <programme start="20210223023000 -0500" stop="20210223030000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Clase</title>
+  </programme>
+  <programme start="20210223030000 -0500" stop="20210223040000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210223040000 -0500" stop="20210223050000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210223050000 -0500" stop="20210223053000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210223053000 -0500" stop="20210223060000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20210223060000 -0500" stop="20210223063000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210223063000 -0500" stop="20210223070000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20210223070000 -0500" stop="20210223073000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Administrando Justicia</title>
+  </programme>
+  <programme start="20210223073000 -0500" stop="20210223080000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20210223080000 -0500" stop="20210223083000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210223083000 -0500" stop="20210223090000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210223090000 -0500" stop="20210223093000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210223093000 -0500" stop="20210223100000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210223100000 -0500" stop="20210223103000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210223103000 -0500" stop="20210223104500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Cápsulas Informativas</title>
+  </programme>
+  <programme start="20210223104500 -0500" stop="20210223110000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20210223110000 -0500" stop="20210223130000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Señal De La Mañana</title>
+  </programme>
+  <programme start="20210223130000 -0500" stop="20210223160000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ceremonia Inaugural Del Gran Foro Mundial De Artes, Cultura, Creatividad Y Tecnología-Gfacct 2020</title>
+  </programme>
+  <programme start="20210223160000 -0500" stop="20210223163000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">En Forma</title>
+  </programme>
+  <programme start="20210223163000 -0500" stop="20210223170000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210223170000 -0500" stop="20210223173000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Reportero</title>
+  </programme>
+  <programme start="20210223173000 -0500" stop="20210223180000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Reporteros En El Mundo / Informativo Euronews</title>
+  </programme>
+  <programme start="20210223180000 -0500" stop="20210223190000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia Al Aire</title>
+  </programme>
+  <programme start="20210223190000 -0500" stop="20210223190200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Este Mes En La Historia</title>
+  </programme>
+  <programme start="20210223190200 -0500" stop="20210223193000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Dw Noticias / Economía Dw</title>
+  </programme>
+  <programme start="20210223193000 -0500" stop="20210223200000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Mundo Al Día</title>
+  </programme>
+  <programme start="20210223200000 -0500" stop="20210223210000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210223210000 -0500" stop="20210223213000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Clase</title>
+  </programme>
+  <programme start="20210223213000 -0500" stop="20210223223000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20210223223000 -0500" stop="20210223230000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20210223230000 -0500" stop="20210224000000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210224000000 -0500" stop="20210224000100 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia 360</title>
+  </programme>
+  <programme start="20210224000100 -0500" stop="20210224000300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210224000300 -0500" stop="20210224003000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tv Municipios</title>
+  </programme>
+  <programme start="20210224003000 -0500" stop="20210224010000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Mundo Al Día</title>
+  </programme>
+  <programme start="20210224010000 -0500" stop="20210224013000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210224013000 -0500" stop="20210224020000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Construyendo Futuro</title>
+  </programme>
+  <programme start="20210224020000 -0500" stop="20210224021500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Alianza Regional Informativa</title>
+  </programme>
+  <programme start="20210224021500 -0500" stop="20210224022500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Informativo Al Día A Las 9</title>
+  </programme>
+  <programme start="20210224022500 -0500" stop="20210224023000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Cápsulas Presidencia</title>
+  </programme>
+  <programme start="20210224023000 -0500" stop="20210224030000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Clase</title>
+  </programme>
+  <programme start="20210224030000 -0500" stop="20210224040000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210224040000 -0500" stop="20210224050000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210224050000 -0500" stop="20210224053000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Administrando Justicia</title>
+  </programme>
+  <programme start="20210224053000 -0500" stop="20210224060000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210224060000 -0500" stop="20210224063000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Con Olor A Región</title>
+  </programme>
+  <programme start="20210224063000 -0500" stop="20210224070000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210224070000 -0500" stop="20210224073000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profesor Yarumo</title>
+  </programme>
+  <programme start="20210224073000 -0500" stop="20210224080000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20210224080000 -0500" stop="20210224083000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210224083000 -0500" stop="20210224090000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Historias Con Futuro</title>
+  </programme>
+  <programme start="20210224090000 -0500" stop="20210224093000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20210224093000 -0500" stop="20210224100000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Nuestros Héroes</title>
+  </programme>
+  <programme start="20210224100000 -0500" stop="20210224103000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210224103000 -0500" stop="20210224110000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Noticias Cámara De Representantes</title>
+  </programme>
+  <programme start="20210224110000 -0500" stop="20210224123000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Señal De La Mañana</title>
+  </programme>
+  <programme start="20210224123000 -0500" stop="20210224130000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210224130000 -0500" stop="20210224130500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Boletín Coronavirus</title>
+  </programme>
+  <programme start="20210224130500 -0500" stop="20210224132500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profe En Tu Casa</title>
+  </programme>
+  <programme start="20210224132500 -0500" stop="20210224133000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Cápsulas Informativas Presidencia De La República</title>
+  </programme>
+  <programme start="20210224133000 -0500" stop="20210224143000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Bien Dateado</title>
+  </programme>
+  <programme start="20210224143000 -0500" stop="20210224150000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210224150000 -0500" stop="20210224170000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210224170000 -0500" stop="20210224180000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia Al Aire</title>
+  </programme>
+  <programme start="20210224180000 -0500" stop="20210224181500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Boletín Coronavirus</title>
+  </programme>
+  <programme start="20210224181500 -0500" stop="20210224183000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Informativo Euronews</title>
+  </programme>
+  <programme start="20210224183000 -0500" stop="20210224183200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210224183200 -0500" stop="20210224190000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Mundo Al Día</title>
+  </programme>
+  <programme start="20210224190000 -0500" stop="20210224193000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Dw Noticias</title>
+  </programme>
+  <programme start="20210224193000 -0500" stop="20210224200000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Reportero</title>
+  </programme>
+  <programme start="20210224200000 -0500" stop="20210224210000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210224210000 -0500" stop="20210224213000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210224213000 -0500" stop="20210224220000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20210224220000 -0500" stop="20210224230000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210224230000 -0500" stop="20210225000000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210225000000 -0500" stop="20210225000100 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia 360</title>
+  </programme>
+  <programme start="20210225000100 -0500" stop="20210225000300 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210225000300 -0500" stop="20210225003000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Mundo Al Día</title>
+  </programme>
+  <programme start="20210225003000 -0500" stop="20210225020000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210225020000 -0500" stop="20210225021500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Informativo Al Día A Las 9</title>
+  </programme>
+  <programme start="20210225021500 -0500" stop="20210225030000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210225030000 -0500" stop="20210225040000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210225040000 -0500" stop="20210225050000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Dramatizados Del Bicentenario</title>
+  </programme>
+  <programme start="20210225050000 -0500" stop="20210225053000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Todo Bajo Control</title>
+  </programme>
+  <programme start="20210225053000 -0500" stop="20210225060000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujeres Pioneras</title>
+  </programme>
+  <programme start="20210225060000 -0500" stop="20210225063000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Nuestros Héroes</title>
+  </programme>
+  <programme start="20210225063000 -0500" stop="20210225070000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">A Volar</title>
+  </programme>
+  <programme start="20210225070000 -0500" stop="20210225073000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Ica Comunica</title>
+  </programme>
+  <programme start="20210225073000 -0500" stop="20210225080000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210225080000 -0500" stop="20210225083000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Búsqueda Es Contigo</title>
+  </programme>
+  <programme start="20210225083000 -0500" stop="20210225090000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Mujer Es Saber</title>
+  </programme>
+  <programme start="20210225090000 -0500" stop="20210225093000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Sic Teve</title>
+  </programme>
+  <programme start="20210225093000 -0500" stop="20210225100000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Escenarios Históricos</title>
+  </programme>
+  <programme start="20210225100000 -0500" stop="20210225103000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210225103000 -0500" stop="20210225110000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Noticiero Del Senado</title>
+  </programme>
+  <programme start="20210225110000 -0500" stop="20210225130000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">La Señal De La Mañana</title>
+  </programme>
+  <programme start="20210225130000 -0500" stop="20210225130500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Boletín Coronavirus</title>
+  </programme>
+  <programme start="20210225130500 -0500" stop="20210225140000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Profe En Tu Casa</title>
+  </programme>
+  <programme start="20210225140000 -0500" stop="20210225143000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Procuraduría Ciudadana</title>
+  </programme>
+  <programme start="20210225143000 -0500" stop="20210225150000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Chévere Pensar En Voz Alta</title>
+  </programme>
+  <programme start="20210225150000 -0500" stop="20210225160000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210225160000 -0500" stop="20210225163000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">De Voz A Vos</title>
+  </programme>
+  <programme start="20210225163000 -0500" stop="20210225170000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210225170000 -0500" stop="20210225180000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Colombia Al Aire</title>
+  </programme>
+  <programme start="20210225180000 -0500" stop="20210225181500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Boletín Coronavirus</title>
+  </programme>
+  <programme start="20210225181500 -0500" stop="20210225183000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Informativo Euronews</title>
+  </programme>
+  <programme start="20210225183000 -0500" stop="20210225183200 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Pronóstico Del Tiempo</title>
+  </programme>
+  <programme start="20210225183200 -0500" stop="20210225190000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">El Mundo Al Día</title>
+  </programme>
+  <programme start="20210225190000 -0500" stop="20210225193000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Dw Noticias</title>
+  </programme>
+  <programme start="20210225193000 -0500" stop="20210225200000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20210225200000 -0500" stop="20210225210000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210225210000 -0500" stop="20210225213000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Tierra</title>
+  </programme>
+  <programme start="20210225213000 -0500" stop="20210225220000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Enlaces</title>
+  </programme>
+  <programme start="20210225220000 -0500" stop="20210225225500 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Franja Documental Encuadre Real</title>
+  </programme>
+  <programme start="20210225225500 -0500" stop="20210225230000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Universo Rtvc</title>
+  </programme>
+  <programme start="20210225230000 -0500" stop="20210226000000 -0500" channel="CO | CANAL INSTITUCIONAL *HQ">
+    <title lang="es">Especial Presidencia Prevención Y Acción</title>
+  </programme>
+  <programme start="20210220000000 -0500" stop="20210220003000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Fuerza Latina</title>
+  </programme>
+  <programme start="20210220003000 -0500" stop="20210220010000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Con Sabor Y Saber</title>
+  </programme>
+  <programme start="20210220010000 -0500" stop="20210220013000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Ensamble: Una Fusión Regional</title>
+  </programme>
+  <programme start="20210220013000 -0500" stop="20210220020000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Tía Ceci</title>
+  </programme>
+  <programme start="20210220020000 -0500" stop="20210220025000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Mujer Del Presidente</title>
+  </programme>
+  <programme start="20210220025000 -0500" stop="20210220033000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">El Juicio Del Conde</title>
+  </programme>
+  <programme start="20210220033000 -0500" stop="20210220043000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Toque</title>
+  </programme>
+  <programme start="20210220043000 -0500" stop="20210220050000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210220050000 -0500" stop="20210220123000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210220123000 -0500" stop="20210220130000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Entrenando Juntos</title>
+  </programme>
+  <programme start="20210220130000 -0500" stop="20210220133000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210220133000 -0500" stop="20210220140000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Espacio Comercial</title>
+  </programme>
+  <programme start="20210220140000 -0500" stop="20210220141500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Hazlo En Casa - Cocinando Con Miko</title>
+  </programme>
+  <programme start="20210220141500 -0500" stop="20210220143000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Pipo Mi Amigo Imaginario</title>
+  </programme>
+  <programme start="20210220143000 -0500" stop="20210220144500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Eco Sos</title>
+  </programme>
+  <programme start="20210220144500 -0500" stop="20210220150000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mis Juegos Juani Y Gatón</title>
+  </programme>
+  <programme start="20210220150000 -0500" stop="20210220151500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Taller De Papo</title>
+  </programme>
+  <programme start="20210220151500 -0500" stop="20210220153000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Mundo Interior</title>
+  </programme>
+  <programme start="20210220153000 -0500" stop="20210220160000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20210220160000 -0500" stop="20210220163000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mateo Y El Tesoro Sonoro</title>
+  </programme>
+  <programme start="20210220163000 -0500" stop="20210220170000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Espacio Comercial</title>
+  </programme>
+  <programme start="20210220170000 -0500" stop="20210220173000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210220173000 -0500" stop="20210220180000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Asi Suena La Comida</title>
+  </programme>
+  <programme start="20210220180000 -0500" stop="20210220183000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210220183000 -0500" stop="20210220190000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Danza Colombia En Escena</title>
+  </programme>
+  <programme start="20210220190000 -0500" stop="20210220191500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Don Quijote De La Láctea</title>
+  </programme>
+  <programme start="20210220191500 -0500" stop="20210220193000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Un Bosque Encantado</title>
+  </programme>
+  <programme start="20210220193000 -0500" stop="20210220194500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Atrapasueños</title>
+  </programme>
+  <programme start="20210220194500 -0500" stop="20210220201500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Robóticos</title>
+  </programme>
+  <programme start="20210220201500 -0500" stop="20210220203000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Tic Lab</title>
+  </programme>
+  <programme start="20210220203000 -0500" stop="20210220210000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Sonamos Así</title>
+  </programme>
+  <programme start="20210220210000 -0500" stop="20210220220000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210220220000 -0500" stop="20210220230000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Tu Corazón Será Mío</title>
+  </programme>
+  <programme start="20210220230000 -0500" stop="20210221000000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210221000000 -0500" stop="20210221003000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Reta2</title>
+  </programme>
+  <programme start="20210221003000 -0500" stop="20210221010000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Vivir Cantando</title>
+  </programme>
+  <programme start="20210221010000 -0500" stop="20210221023000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Sala Trece</title>
+  </programme>
+  <programme start="20210221023000 -0500" stop="20210221033000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Toque</title>
+  </programme>
+  <programme start="20210221033000 -0500" stop="20210221034000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210221034000 -0500" stop="20210221034300 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Lotería De Boyacá</title>
+  </programme>
+  <programme start="20210221034300 -0500" stop="20210221050000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210221050000 -0500" stop="20210221123000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210221123000 -0500" stop="20210221130000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Entrenando Juntos</title>
+  </programme>
+  <programme start="20210221130000 -0500" stop="20210221133000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210221133000 -0500" stop="20210221140000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Espacio Comercial</title>
+  </programme>
+  <programme start="20210221140000 -0500" stop="20210221141500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Hazlo En Casa - Cocinando Con Miko</title>
+  </programme>
+  <programme start="20210221141500 -0500" stop="20210221143000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Pipo Mi Amigo Imaginario</title>
+  </programme>
+  <programme start="20210221143000 -0500" stop="20210221144500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Eco Sos</title>
+  </programme>
+  <programme start="20210221144500 -0500" stop="20210221150000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mis Juegos Juani Y Gatón</title>
+  </programme>
+  <programme start="20210221150000 -0500" stop="20210221151500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Taller De Papo</title>
+  </programme>
+  <programme start="20210221151500 -0500" stop="20210221153000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Mundo Interior</title>
+  </programme>
+  <programme start="20210221153000 -0500" stop="20210221160000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20210221160000 -0500" stop="20210221163000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Cata Mestiza</title>
+  </programme>
+  <programme start="20210221163000 -0500" stop="20210221170000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Espacio Comercial</title>
+  </programme>
+  <programme start="20210221170000 -0500" stop="20210221173000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210221173000 -0500" stop="20210221180000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Asi Suena La Comida</title>
+  </programme>
+  <programme start="20210221180000 -0500" stop="20210221183000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210221183000 -0500" stop="20210221190000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Danza Colombia En Escena</title>
+  </programme>
+  <programme start="20210221190000 -0500" stop="20210221200000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Doctv Latinoamérica Vi</title>
+  </programme>
+  <programme start="20210221200000 -0500" stop="20210221203000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Las Musas</title>
+  </programme>
+  <programme start="20210221203000 -0500" stop="20210221210000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Gente De Montaña</title>
+  </programme>
+  <programme start="20210221210000 -0500" stop="20210221220000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210221220000 -0500" stop="20210221230000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Tu Corazón Será Mío</title>
+  </programme>
+  <programme start="20210221230000 -0500" stop="20210222000000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210222000000 -0500" stop="20210222003000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Reta2</title>
+  </programme>
+  <programme start="20210222003000 -0500" stop="20210222010000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Vivir Cantando</title>
+  </programme>
+  <programme start="20210222010000 -0500" stop="20210222023000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Sala Trece - Un Tal Alfono Quijano</title>
+  </programme>
+  <programme start="20210222023000 -0500" stop="20210222033000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Sonidos De La Montaña - Los Rolling Ruanas</title>
+  </programme>
+  <programme start="20210222033000 -0500" stop="20210222040000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Extremo</title>
+  </programme>
+  <programme start="20210222040000 -0500" stop="20210222050000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210222050000 -0500" stop="20210222140000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210222140000 -0500" stop="20210222143000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Josefina En La Cocina</title>
+  </programme>
+  <programme start="20210222143000 -0500" stop="20210222144500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Atrapasueños</title>
+  </programme>
+  <programme start="20210222144500 -0500" stop="20210222150000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Wawawitas</title>
+  </programme>
+  <programme start="20210222150000 -0500" stop="20210222153000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Que Gran Idea</title>
+  </programme>
+  <programme start="20210222153000 -0500" stop="20210222160000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20210222160000 -0500" stop="20210222163000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210222163000 -0500" stop="20210222170000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">De Pura Cepa</title>
+  </programme>
+  <programme start="20210222170000 -0500" stop="20210222173000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20210222173000 -0500" stop="20210222183000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">El Podcast</title>
+  </programme>
+  <programme start="20210222183000 -0500" stop="20210222190000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210222190000 -0500" stop="20210222191500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Martin Y Prika - Niña Ají - Migropolis</title>
+  </programme>
+  <programme start="20210222191500 -0500" stop="20210222193000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Monstruos En Red</title>
+  </programme>
+  <programme start="20210222193000 -0500" stop="20210222194500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Soliaventuras</title>
+  </programme>
+  <programme start="20210222194500 -0500" stop="20210222201500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Robóticos</title>
+  </programme>
+  <programme start="20210222201500 -0500" stop="20210222203000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Tic Lab</title>
+  </programme>
+  <programme start="20210222203000 -0500" stop="20210222210000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Lleva Internacional</title>
+  </programme>
+  <programme start="20210222210000 -0500" stop="20210222213000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Nuevos Caminos</title>
+  </programme>
+  <programme start="20210222213000 -0500" stop="20210222220000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Ana, Soy Ana</title>
+  </programme>
+  <programme start="20210222220000 -0500" stop="20210222230000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List Demo</title>
+  </programme>
+  <programme start="20210222230000 -0500" stop="20210223000000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Prevención Y Acción</title>
+  </programme>
+  <programme start="20210223000000 -0500" stop="20210223003000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20210223003000 -0500" stop="20210223013000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Ensamble: Una Fusión Regional</title>
+  </programme>
+  <programme start="20210223013000 -0500" stop="20210223020000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Débora: La Mujer Que Desnudó A Colombia</title>
+  </programme>
+  <programme start="20210223020000 -0500" stop="20210223025000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Mujer Del Presidente</title>
+  </programme>
+  <programme start="20210223025000 -0500" stop="20210223040000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">El Podcast</title>
+  </programme>
+  <programme start="20210223040000 -0500" stop="20210223050000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210223050000 -0500" stop="20210223140000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210223140000 -0500" stop="20210223143000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Josefina En La Cocina</title>
+  </programme>
+  <programme start="20210223143000 -0500" stop="20210223144500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Neuro Qué</title>
+  </programme>
+  <programme start="20210223144500 -0500" stop="20210223150000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Niños De Mi Tierra</title>
+  </programme>
+  <programme start="20210223150000 -0500" stop="20210223153000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Telmo Y Pitágoras</title>
+  </programme>
+  <programme start="20210223153000 -0500" stop="20210223160000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20210223160000 -0500" stop="20210223170000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">El Podcast</title>
+  </programme>
+  <programme start="20210223170000 -0500" stop="20210223173000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210223173000 -0500" stop="20210223180000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20210223180000 -0500" stop="20210223183000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Enlace Trece</title>
+  </programme>
+  <programme start="20210223183000 -0500" stop="20210223190000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210223190000 -0500" stop="20210223193000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Familia López Gómez</title>
+  </programme>
+  <programme start="20210223193000 -0500" stop="20210223200000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Un Gringo En Tierra Zhue</title>
+  </programme>
+  <programme start="20210223200000 -0500" stop="20210223201500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Señal, Mi Huella</title>
+  </programme>
+  <programme start="20210223201500 -0500" stop="20210223203000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mira Lo Que Pasa</title>
+  </programme>
+  <programme start="20210223203000 -0500" stop="20210223210000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Lleva Internacional</title>
+  </programme>
+  <programme start="20210223210000 -0500" stop="20210223213000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Primera Vez</title>
+  </programme>
+  <programme start="20210223213000 -0500" stop="20210223223000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List Kpop</title>
+  </programme>
+  <programme start="20210223223000 -0500" stop="20210223230000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Toque</title>
+  </programme>
+  <programme start="20210223230000 -0500" stop="20210224000000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Prevención Y Acción</title>
+  </programme>
+  <programme start="20210224000000 -0500" stop="20210224003000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Reta2</title>
+  </programme>
+  <programme start="20210224003000 -0500" stop="20210224010000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Cámaras Legislativas</title>
+  </programme>
+  <programme start="20210224010000 -0500" stop="20210224013000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Plantas De Poder</title>
+  </programme>
+  <programme start="20210224013000 -0500" stop="20210224020000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Ensamble: Una Fusión Regional</title>
+  </programme>
+  <programme start="20210224020000 -0500" stop="20210224030000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Mujer Del Presidente</title>
+  </programme>
+  <programme start="20210224030000 -0500" stop="20210224033000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Lo Que El Arte No Olvida</title>
+  </programme>
+  <programme start="20210224033000 -0500" stop="20210224050000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210224050000 -0500" stop="20210224140000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210224140000 -0500" stop="20210224143000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Josefina En La Cocina</title>
+  </programme>
+  <programme start="20210224143000 -0500" stop="20210224144500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Neuro Qué</title>
+  </programme>
+  <programme start="20210224144500 -0500" stop="20210224150000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Humus Humus</title>
+  </programme>
+  <programme start="20210224150000 -0500" stop="20210224153000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Telmo Y Pitágoras</title>
+  </programme>
+  <programme start="20210224153000 -0500" stop="20210224160000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20210224160000 -0500" stop="20210224170000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">El Podcast</title>
+  </programme>
+  <programme start="20210224170000 -0500" stop="20210224173000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210224173000 -0500" stop="20210224180000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20210224180000 -0500" stop="20210224183000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Enlace Trece</title>
+  </programme>
+  <programme start="20210224183000 -0500" stop="20210224190000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210224190000 -0500" stop="20210224193000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Familia López Gómez</title>
+  </programme>
+  <programme start="20210224193000 -0500" stop="20210224200000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Un Gringo En Tierra Zhue</title>
+  </programme>
+  <programme start="20210224200000 -0500" stop="20210224201500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Señal, Mi Huella</title>
+  </programme>
+  <programme start="20210224201500 -0500" stop="20210224203000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mira Lo Que Pasa</title>
+  </programme>
+  <programme start="20210224203000 -0500" stop="20210224210000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Lleva Internacional</title>
+  </programme>
+  <programme start="20210224210000 -0500" stop="20210224213000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Primera Vez</title>
+  </programme>
+  <programme start="20210224213000 -0500" stop="20210224230000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Tus Favoritos</title>
+  </programme>
+  <programme start="20210224230000 -0500" stop="20210225000000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Prevención Y Acción</title>
+  </programme>
+  <programme start="20210225000000 -0500" stop="20210225003000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Reta2</title>
+  </programme>
+  <programme start="20210225003000 -0500" stop="20210225010000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210225010000 -0500" stop="20210225013000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Plantas De Poder</title>
+  </programme>
+  <programme start="20210225013000 -0500" stop="20210225020000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Ensamble: Una Fusión Regional</title>
+  </programme>
+  <programme start="20210225020000 -0500" stop="20210225030000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Mujer Del Presidente</title>
+  </programme>
+  <programme start="20210225030000 -0500" stop="20210225033000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Lo Que El Arte No Olvida</title>
+  </programme>
+  <programme start="20210225033000 -0500" stop="20210225050000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Playlist</title>
+  </programme>
+  <programme start="20210225050000 -0500" stop="20210225140000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210225140000 -0500" stop="20210225143000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Josefina En La Cocina</title>
+  </programme>
+  <programme start="20210225143000 -0500" stop="20210225144500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Neuro Qué</title>
+  </programme>
+  <programme start="20210225144500 -0500" stop="20210225150000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Humus Humus</title>
+  </programme>
+  <programme start="20210225150000 -0500" stop="20210225153000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Telmo Y Pitágoras</title>
+  </programme>
+  <programme start="20210225153000 -0500" stop="20210225160000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Amigos Con Cola</title>
+  </programme>
+  <programme start="20210225160000 -0500" stop="20210225170000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">El Podcast</title>
+  </programme>
+  <programme start="20210225170000 -0500" stop="20210225173000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Somos Región</title>
+  </programme>
+  <programme start="20210225173000 -0500" stop="20210225180000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Fractal</title>
+  </programme>
+  <programme start="20210225180000 -0500" stop="20210225183000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Enlace Trece</title>
+  </programme>
+  <programme start="20210225183000 -0500" stop="20210225190000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Toma El Control</title>
+  </programme>
+  <programme start="20210225190000 -0500" stop="20210225193000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Familia López Gómez</title>
+  </programme>
+  <programme start="20210225193000 -0500" stop="20210225200000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Un Gringo En Tierra Zhue</title>
+  </programme>
+  <programme start="20210225200000 -0500" stop="20210225201500 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Señal, Mi Huella</title>
+  </programme>
+  <programme start="20210225201500 -0500" stop="20210225203000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mira Lo Que Pasa</title>
+  </programme>
+  <programme start="20210225203000 -0500" stop="20210225210000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">La Lleva Internacional</title>
+  </programme>
+  <programme start="20210225210000 -0500" stop="20210225213000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Mi Primera Vez</title>
+  </programme>
+  <programme start="20210225213000 -0500" stop="20210225220000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Play List</title>
+  </programme>
+  <programme start="20210225220000 -0500" stop="20210225230000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Resonantes Toque</title>
+  </programme>
+  <programme start="20210225230000 -0500" stop="20210226000000 -0500" channel="CO | CANAL TRECE *HD">
+    <title lang="es">Prevención Y Acción</title>
+  </programme>
+</tv>
